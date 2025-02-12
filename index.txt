@@ -1,7 +1,11 @@
 pavan chowdary
 what up
+<<<<<<< HEAD
 pavan 
 bro
 
 server repos all ok
 
+=======
+sri sahasara in the pavan all time paly bgmi
+>>>>>>> refs/remotes/origin/main
